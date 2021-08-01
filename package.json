@@ -17,6 +17,8 @@
   "dependencies": {
     "gatsby": "^2.26.1",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "gatsby-plugin-sharp": "^2.6.36",
+    "gatsby-transformer-sharp": "^2.5.15"
   }
 }
